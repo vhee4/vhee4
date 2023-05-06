@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on RESPONSIVE WEB DESIGN on freeCodeCamp<br>👯 I’m looking to collaborate on future web development projects🤝 <br>🌱 I’m currently learning FRONTEND DEVELOPMENT<br>💬 Ask me about HTML and CSS for now<br>⚡ Fun fact : I love dancing, singing and swimming(i'm scared of water... LOL)) 
+🔭I’m currently learning JAVA<br>💬 Ask me about HTML, CSS AND JAVA<br>⚡ Fun fact : I love dancing, singing and swimming(i'm scared of water... LOL)) 
 
 
 ## 🌐 Socials:
